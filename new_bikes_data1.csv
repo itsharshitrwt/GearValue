@@ -1,0 +1,2001 @@
+Unnamed: 0,bike_name,price,kms_driven,owner,brand
+28994,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+31433,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+17250,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+13738,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+24577,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+25494,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+11014,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+3000,Hero Super Splendor,35000.0,12669.0,First Owner,Hero
+10504,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+11096,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+11129,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+27474,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+9539,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+15104,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+27872,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+18671,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+23405,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+19221,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+28799,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+20415,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+22685,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+30214,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+21523,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+20203,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+30226,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+7449,Royal Enfield Himalayan,150000.0,19600.0,Second Owner,Royal Enfield
+29534,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+24824,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+20790,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+11448,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+31206,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+20605,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+29335,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+17980,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+23228,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+20887,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+216,Royal Enfield Classic,130000.0,10149.0,First Owner,Royal Enfield
+26570,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+19682,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+27013,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+18137,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+32005,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+21018,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+19827,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+2095,Royal Enfield Classic,102850.0,3198.0,First Owner,Royal Enfield
+14962,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+23022,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+31683,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+3398,Bajaj Discover 125cc,18000.0,403833.0,First Owner,Bajaj
+12094,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+28235,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+23251,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+3776,Royal Enfield Bullet,97500.0,25000.0,First Owner,Royal Enfield
+26763,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+14509,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+3517,Hero Passion Xpro,49500.0,5000.0,First Owner,Hero
+28924,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+22205,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+27241,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+13370,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+23924,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+20600,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+1555,Royal Enfield Classic,105000.0,2109.0,First Owner,Royal Enfield
+15461,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+16253,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+14446,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+9598,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+31152,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+1109,Bajaj Pulsar 180cc,52000.0,30000.0,First Owner,Bajaj
+29285,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+13581,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+29987,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+32451,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+16680,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+10241,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+10883,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+5199,Bajaj Pulsar 150cc,32000.0,21000.0,First Owner,Bajaj
+9779,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+5138,Bajaj Avenger 220cc,50000.0,1234.0,Second Owner,Bajaj
+19409,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+32002,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+11809,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+10296,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+4273,Bajaj Pulsar 150cc,50000.0,27342.0,First Owner,Bajaj
+15838,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+18277,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+21465,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+16227,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+19133,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+28928,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+369,KTM RC 200cc,185000.0,3000.0,First Owner,KTM
+10812,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+18327,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+29197,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+12609,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+14918,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+22565,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+12163,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+15967,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+21901,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+6067,Bajaj Pulsar 150cc,47000.0,25000.0,First Owner,Bajaj
+11902,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+17975,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+7768,Hero CBZ Xtreme,38000.0,53000.0,First Owner,Hero
+23837,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+24313,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+2119,Royal Enfield‎ Bullet,95000.0,26000.0,Second Owner,Royal Enfield
+11582,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+28337,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+13037,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+22480,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+17315,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+24640,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+22247,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+29641,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+14699,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+27368,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+3899,Hero Splendor Plus,32000.0,25130.0,First Owner,Hero
+9051,Bajaj Platina 125cc,18000.0,34589.0,First Owner,Bajaj
+32405,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+7301,Hero Xtreme 150cc,35000.0,50000.0,First Owner,Hero
+2683,Bajaj Avenger 220cc,40000.0,7600.0,First Owner,Bajaj
+3031,Bajaj V15 150cc,50000.0,7500.0,First Owner,Bajaj
+7030,Hero CD Dawn,15000.0,21000.0,First Owner,Hero
+10124,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+16400,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+16787,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+25236,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+4991,Yamaha FZ 150cc,44000.0,21460.0,First Owner,Yamaha
+196,Royal Enfield Classic,149000.0,7000.0,First Owner,Royal Enfield
+27366,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+9331,TVS Apache RTR,110000.0,6000.0,First Owner,TVS
+23733,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+24239,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+16631,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+23371,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+31236,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+573,Royal Enfield Thunderbird,110000.0,37000.0,First Owner,Royal Enfield
+22282,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+19263,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+9242,Yamaha YZF-R15 2.0,66000.0,59794.0,First Owner,Yamaha
+17036,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+14280,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+18858,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+10501,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+11699,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+16670,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+13405,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+11862,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+1331,Royal Enfield Bullet,62000.0,11000.0,Second Owner,Royal Enfield
+11764,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+30177,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+12296,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+15817,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+18364,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+15842,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+25587,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+4844,Royal Enfield Classic,150000.0,4900.0,First Owner,Royal Enfield
+6418,Bajaj Avenger Cruise,75000.0,24400.0,First Owner,Bajaj
+28787,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+23375,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+12727,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+23977,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+10125,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+3068,Yamaha YZF-R15 150cc,47000.0,12643.0,Second Owner,Yamaha
+12637,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+14100,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+4932,Honda CD 110,28400.0,18958.0,First Owner,Honda
+5218,Royal Enfield Bullet,95000.0,15288.0,Second Owner,Royal Enfield
+16614,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+10853,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18442,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+3096,KTM RC 200cc,190000.0,2500.0,First Owner,KTM
+14145,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+9287,Bajaj Pulsar 220F,76000.0,3450.0,First Owner,Bajaj
+2497,Honda Livo Disc,65000.0,2780.0,First Owner,Honda
+3154,Bajaj Avenger Street,43000.0,9430.0,First Owner,Bajaj
+31751,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+25052,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+7685,Hero Passion Xpro,32000.0,52500.0,First Owner,Hero
+8040,Honda CB Unicorn,70000.0,26000.0,First Owner,Honda
+14129,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+22728,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+585,Honda CB Shine,22000.0,42554.0,First Owner,Honda
+6271,Yamaha Fazer 150cc,30000.0,30920.0,First Owner,Yamaha
+11399,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+21859,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+26081,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+30273,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+3189,Royal Enfield Classic,130000.0,16000.0,First Owner,Royal Enfield
+32628,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+26620,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+26995,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+26909,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+9284,Yamaha FZ25 250cc,115800.0,2126.0,First Owner,Yamaha
+21519,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+6000,Hero HF Deluxe,35000.0,20928.0,First Owner,Hero
+7889,Bajaj Pulsar 220cc,80000.0,17000.0,First Owner,Bajaj
+21075,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+21823,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+14600,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+25705,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+28525,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+22122,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+16545,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+4285,Yamaha FZS FI,62000.0,24000.0,First Owner,Yamaha
+27460,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+18842,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+9509,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+26505,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+15895,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+23917,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+10149,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+17097,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+24506,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+8023,Bajaj Pulsar 135LS,30000.0,37125.0,First Owner,Bajaj
+11766,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+21238,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+10212,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+30344,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+5676,Bajaj Pulsar RS200,108400.0,18000.0,First Owner,Bajaj
+12933,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+16324,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+30817,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+20391,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+22805,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+7974,Royal Enfield Classic,114000.0,38000.0,First Owner,Royal Enfield
+27823,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+21268,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+24801,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+5187,Bajaj Avenger Street,49000.0,13281.0,First Owner,Bajaj
+21028,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+9212,Hero CBZ Xtreme,22000.0,55000.0,First Owner,Hero
+13614,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+21652,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+23034,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+31250,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+5165,Royal Enfield Bullet,123400.0,5000.0,First Owner,Royal Enfield
+10398,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+11681,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+24280,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+3248,TVS Apache RTR,40500.0,39125.0,First Owner,TVS
+13457,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+6237,Hero CD Deluxe,18000.0,73031.0,First Owner,Hero
+8941,Hero Passion Plus,15500.0,51000.0,First Owner,Hero
+8824,Harley-Davidson Iron 883,400000.0,18000.0,Second Owner,Harley-Davidson
+22007,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+27240,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+7600,KTM Duke 250cc,170000.0,3822.0,First Owner,KTM
+19745,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+25127,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+17967,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+15807,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+19024,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+2240,KTM Duke 200cc,95000.0,8200.0,Second Owner,KTM
+13725,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+17388,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+2231,Bajaj V15 150cc,46000.0,7840.0,First Owner,Bajaj
+10610,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+9398,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+499,Suzuki Gixxer SF,49000.0,7500.0,First Owner,Suzuki
+7325,Honda CB Twister,27400.0,33000.0,First Owner,Honda
+12800,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+11798,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+7722,Royal Enfield Classic,95000.0,9000.0,First Owner,Royal Enfield
+25469,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+14836,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+23119,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+15342,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+21171,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+217,Royal Enfield Classic,130000.0,7036.0,First Owner,Royal Enfield
+18340,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+10824,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+3105,Yamaha YZF-R15 150cc,57000.0,28000.0,First Owner,Yamaha
+18198,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+16008,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+3397,Bajaj Pulsar AS200,44000.0,29000.0,Second Owner,Bajaj
+14359,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+18337,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+22277,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+1456,Yamaha FZ S,38500.0,21500.0,First Owner,Yamaha
+4410,Hero Super Splendor,26000.0,17000.0,First Owner,Hero
+9975,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+18190,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+3014,Hero Splendor Plus,28000.0,17942.0,First Owner,Hero
+18328,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+25411,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+20133,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+7891,Royal Enfield Classic,124600.0,19000.0,First Owner,Royal Enfield
+8225,Hero CBZ Xtreme,22000.0,5610.0,First Owner,Hero
+19690,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+7880,Bajaj Discover 125cc,40000.0,5995.0,First Owner,Bajaj
+4974,KTM Duke 250cc,198599.0,930.0,First Owner,KTM
+6014,Bajaj CT 100,30000.0,27571.0,First Owner,Bajaj
+24320,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+12499,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+20014,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+9222,Bajaj Avenger 200cc,40000.0,27875.0,First Owner,Bajaj
+32193,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+31451,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+21821,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+5679,Royal Enfield Bullet,100000.0,45730.0,First Owner,Royal Enfield
+21353,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+13103,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+10098,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+32502,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+14976,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18358,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+1427,Jawa Forty Two,175000.0,2388.0,First Owner,Jawa
+14911,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+5732,TVS Apache RTR,36000.0,34000.0,First Owner,TVS
+15727,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+27846,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+345,Bajaj CT 100,20000.0,30806.0,First Owner,Bajaj
+29968,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+15469,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+15084,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+5770,Honda CBR 150R,97000.0,24878.0,First Owner,Honda
+7117,Bajaj Pulsar 150cc,35000.0,40588.0,First Owner,Bajaj
+31553,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+26583,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+1346,Bajaj Avenger 220cc,50000.0,18500.0,First Owner,Bajaj
+8879,Bajaj Pulsar 150cc,20000.0,29051.0,Second Owner,Bajaj
+2344,TVS Apache RTR,68000.0,14497.0,First Owner,TVS
+27170,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+20533,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+7277,Hero Hunk 150cc,17000.0,31214.0,First Owner,Hero
+27541,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+4084,Royal Enfield Classic,152500.0,4700.0,First Owner,Royal Enfield
+890,Bajaj Discover 125ST,33000.0,50000.0,First Owner,Bajaj
+21825,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+27486,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+23997,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+27338,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+3208,Bajaj Platina ,32000.0,34859.0,First Owner,Bajaj
+2798,Bajaj Pulsar NS200,55000.0,39309.0,Second Owner,Bajaj
+9997,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+1866,Hyosung GT 650N,340000.0,2500.0,First Owner,Hyosung
+22390,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+25104,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+23271,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+17672,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+12347,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+27155,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+21720,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+17969,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+20881,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+15365,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+27174,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18712,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+6148,Bajaj Avenger Street,52843.0,59886.0,First Owner,Bajaj
+1288,Honda Dream Yuga,43000.0,16000.0,First Owner,Honda
+18794,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+23712,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+12741,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+3922,TVS Star City,26000.0,24000.0,First Owner,TVS
+20090,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+23507,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+26157,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+3510,Bajaj Pulsar 150cc,42000.0,28100.0,First Owner,Bajaj
+8686,Bajaj Pulsar 150cc,24200.0,30000.0,First Owner,Bajaj
+6631,Hero Splendor Plus,50000.0,5500.0,First Owner,Hero
+14202,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+29183,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+31500,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+11941,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+6460,Yamaha FZ25 250cc,84000.0,12398.0,First Owner,Yamaha
+14786,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+8865,Royal Enfield Thunderbird,110000.0,35006.0,First Owner,Royal Enfield
+17391,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+3184,Honda CB Unicorn,57000.0,18374.0,Second Owner,Honda
+12843,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+10059,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+17694,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+15621,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+24422,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+1291,Yamaha MT-15 150cc,135000.0,3000.0,First Owner,Yamaha
+8910,Bajaj Pulsar 200,55000.0,35000.0,First Owner,Bajaj
+1959,Yamaha FZs 150cc,28300.0,35000.0,Second Owner,Yamaha
+11356,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+13825,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+32474,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+22872,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+32235,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+8513,Harley-Davidson Iron 883,550000.0,4764.0,First Owner,Harley-Davidson
+23484,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+13008,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+22128,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+32069,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+13413,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+9723,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+24672,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+24030,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+19010,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+8047,TVS Apache RTR,48000.0,18533.0,First Owner,TVS
+26921,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+28639,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+26913,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+25297,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+21790,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+17819,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+5910,Royal Enfield Classic,140000.0,11166.0,First Owner,Royal Enfield
+26810,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+30850,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+8870,KTM Duke 390cc,140900.0,29416.0,First Owner,KTM
+83,KTM Duke 250cc,130000.0,17500.0,Second Owner,KTM
+21355,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+21213,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+20992,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+26504,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+24859,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+30695,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+21846,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+16144,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+18473,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+2140,Bajaj Discover 100cc,23000.0,32000.0,First Owner,Bajaj
+2710,TVS Victor 110cc,40000.0,12530.0,First Owner,TVS
+21719,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+3580,TVS Apache RTR,85000.0,8811.0,First Owner,TVS
+25241,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+10030,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+6517,Royal Enfield Thunderbird,140000.0,11000.0,First Owner,Royal Enfield
+10497,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+9469,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+14173,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+28943,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+16635,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+26639,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+24271,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+27002,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+20725,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+10476,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+22411,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+10353,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+6746,Hero Passion Pro,34800.0,23000.0,First Owner,Hero
+19467,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+27826,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+4706,KTM Duke 390cc,120000.0,40700.0,First Owner,KTM
+29645,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+19784,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+5114,Bajaj Discover 100M,32000.0,26500.0,First Owner,Bajaj
+28952,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+32056,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+18336,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+28046,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+9093,Hero CD Deluxe,20000.0,14423.0,First Owner,Hero
+14216,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+11904,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+4143,Honda CB Trigger,48300.0,3100.0,First Owner,Honda
+23335,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+16858,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+18307,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+18274,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+30274,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+5780,Honda CBR 150R,48000.0,39555.0,First Owner,Honda
+16050,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+6726,Honda CB Shine,55000.0,15000.0,Second Owner,Honda
+11903,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+11204,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+15839,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+6334,Bajaj CT 100,32000.0,7652.0,First Owner,Bajaj
+16111,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+10746,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+22046,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+27484,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+7094,Hero Karizma 223cc,13700.0,52000.0,Second Owner,Hero
+14832,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+7609,Hero CD Deluxe,29000.0,25000.0,First Owner,Hero
+1588,KTM RC 390cc,150000.0,12000.0,First Owner,KTM
+27678,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+5511,Yamaha YZF-R15 150cc,53300.0,29000.0,First Owner,Yamaha
+18191,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+30203,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+22150,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+21175,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+18798,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+1837,Honda CBR 250R,190000.0,6000.0,First Owner,Honda
+11651,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+24536,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+17757,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+28085,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+16366,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+6108,Hero CBZ 150cc,20000.0,25000.0,First Owner,Hero
+222,Royal Enfield Himalayan,177982.0,7000.0,First Owner,Royal Enfield
+15875,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+2442,Hero Passion Xpro,39000.0,36850.0,First Owner,Hero
+11192,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+23826,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+29313,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+18305,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+24490,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+30792,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+27722,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+10228,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+26338,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+20497,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+29907,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+24581,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+15759,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+17075,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+26447,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+9159,Hero Passion Plus,28000.0,24434.0,First Owner,Hero
+19012,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+16408,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+19993,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+17190,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+19274,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+11194,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+23075,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+9202,Bajaj CT 100,32000.0,90000.0,First Owner,Bajaj
+20395,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+6551,TVS Star City,28000.0,99813.0,First Owner,TVS
+14525,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+6442,Suzuki Intruder 150cc,92000.0,4700.0,First Owner,Suzuki
+14956,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+9402,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+26038,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+30790,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+8868,Royal Enfield Bullet,100000.0,17000.0,First Owner,Royal Enfield
+4502,KTM Duke 390cc,100000.0,9300.0,First Owner,KTM
+24136,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+13420,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+20264,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+8725,Bajaj Avenger Street,53300.0,19853.0,First Owner,Bajaj
+18391,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+12639,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+408,Honda CB Shine,33500.0,26000.0,Second Owner,Honda
+19191,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+17242,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+9214,Bajaj Pulsar 220cc,35000.0,40000.0,First Owner,Bajaj
+32441,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+20177,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+19684,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+5226,Royal Enfield Thunderbird,115000.0,12000.0,First Owner,Royal Enfield
+19634,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+8135,TVS Apache RTR,34000.0,53817.0,First Owner,TVS
+8500,Bajaj Discover 135cc,22000.0,13000.0,First Owner,Bajaj
+15306,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+13741,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+16689,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+20516,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+15757,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+19700,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+1090,Royal Enfield Classic,90000.0,8000.0,First Owner,Royal Enfield
+12785,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+13713,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+7539,TVS Apache RTR,65000.0,7024.0,First Owner,TVS
+14006,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+24786,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+30238,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+15541,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+23381,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+9298,Hero Splendor Pro,20000.0,15906.0,First Owner,Hero
+4093,Yamaha FZs 150cc,30000.0,18000.0,First Owner,Yamaha
+27703,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+16503,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+6527,Bajaj Avenger 220cc,32900.0,11000.0,First Owner,Bajaj
+11144,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+12369,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+15963,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+4189,KTM Duke 200cc,61000.0,64284.0,First Owner,KTM
+15301,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+17003,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+32280,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+18025,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+32417,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+26168,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+5157,Hero CD Deluxe,11000.0,20000.0,First Owner,Hero
+22364,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+9153,Bajaj Discover 110cc,26000.0,5451.0,First Owner,Bajaj
+15252,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+26720,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+17854,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+29972,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+15081,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+5227,Hero Passion Plus,24000.0,6000.0,First Owner,Hero
+29621,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+27579,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+1023,Royal Enfield Thunderbird,155000.0,12000.0,First Owner,Royal Enfield
+19568,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+5934,KTM Duke 200cc,115000.0,29500.0,First Owner,KTM
+6379,Royal Enfield Classic,114000.0,9282.0,First Owner,Royal Enfield
+22111,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+9099,Hero Passion Pro,26000.0,81414.0,First Owner,Hero
+16010,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+16851,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+14853,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+17527,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+10696,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+14190,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+2874,Bajaj Avenger 220cc,45000.0,38500.0,First Owner,Bajaj
+18388,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+16643,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+20517,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+12801,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+30152,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+22600,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+15215,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+4871,Kawasaki Versys 1000,901000.0,25000.0,First Owner,Kawasaki
+30197,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+26760,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+28773,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+8037,Honda CB Shine,30000.0,24021.0,First Owner,Honda
+27667,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+5503,Bajaj Pulsar 180cc,28000.0,34060.0,Second Owner,Bajaj
+11568,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+18911,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+9252,Royal Enfield Classic,100000.0,15078.0,First Owner,Royal Enfield
+32003,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+28569,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+25744,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+30560,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+13069,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+25684,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+32113,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+32319,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+13845,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+13235,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+3806,Royal Enfield Classic,115000.0,21651.0,First Owner,Royal Enfield
+2518,Hero HF Dawn,32500.0,12045.0,First Owner,Hero
+6902,Royal Enfield Thunderbird,110000.0,9876.0,First Owner,Royal Enfield
+23390,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+13141,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+17191,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+7293,KTM RC 390cc,162000.0,8000.0,First Owner,KTM
+14315,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+4762,Royal Enfield Classic,73000.0,31254.0,First Owner,Royal Enfield
+11974,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+4475,TVS Apache RTR,20000.0,48782.0,First Owner,TVS
+5472,Royal Enfield Classic,165000.0,2791.0,First Owner,Royal Enfield
+28844,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+15755,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+24090,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+7353,TVS Apache RTR,74200.0,6300.0,First Owner,TVS
+11898,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+12351,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+29455,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+6632,Royal Enfield Classic,112000.0,6646.0,First Owner,Royal Enfield
+5853,Honda CB Unicorn,40000.0,49000.0,Second Owner,Honda
+17171,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+25474,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+7132,Bajaj Pulsar 135LS,36000.0,6240.0,First Owner,Bajaj
+21463,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+12965,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+4520,Yamaha FZs 150cc,19000.0,21878.0,First Owner,Yamaha
+25977,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+8862,Bajaj Pulsar 150cc,26000.0,20000.0,First Owner,Bajaj
+27498,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+3843,Honda CB Trigger,47400.0,13000.0,First Owner,Honda
+7155,Bajaj Pulsar NS200,40000.0,80402.0,First Owner,Bajaj
+2649,Bajaj Pulsar RS200,85000.0,2700.0,First Owner,Bajaj
+30568,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+5121,Honda CB Unicorn,20000.0,35063.0,Second Owner,Honda
+17422,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+27832,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+12706,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+16730,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+12909,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+15773,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+3219,KTM Duke 390cc,110147.0,13193.0,First Owner,KTM
+7467,Ideal Jawa Yezdi,100000.0,80000.0,Second Owner,Ideal
+7395,Yamaha YZF-R15 2.0,70000.0,43241.0,First Owner,Yamaha
+21450,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+22045,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+7696,Suzuki Intruder 150cc,68000.0,4961.0,First Owner,Suzuki
+15645,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+31931,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+12184,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+7388,Hero Karizma ZMR,42000.0,52000.0,Second Owner,Hero
+16723,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+30551,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+31533,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+13211,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+23435,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+16719,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+5222,Bajaj Discover150 150cc,28000.0,25000.0,First Owner,Bajaj
+10841,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+27062,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+13217,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+17687,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+27221,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+24688,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+18754,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+12525,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+13363,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+21626,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+12704,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+18518,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+28445,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+12428,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+26117,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+7731,TVS Apache RTR,48000.0,17746.0,First Owner,TVS
+6870,Bajaj Avenger Street,46000.0,25400.0,First Owner,Bajaj
+2507,Yamaha FZs 150cc,37000.0,53500.0,First Owner,Yamaha
+31207,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+2638,Bajaj Avenger 220cc,52000.0,31782.0,First Owner,Bajaj
+821,Royal Enfield Thunderbird,125000.0,33000.0,First Owner,Royal Enfield
+6223,Hero Hunk 150cc,22000.0,20000.0,First Owner,Hero
+3263,Hero Passion Pro,23000.0,38499.0,Second Owner,Hero
+1530,Kawasaki Ninja 300cc,204600.0,5000.0,First Owner,Kawasaki
+27130,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+4032,Royal Enfield Classic,118000.0,8000.0,First Owner,Royal Enfield
+15381,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+28092,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+1912,Hero CD Deluxe,31500.0,22845.0,First Owner,Hero
+27554,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+26632,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+3115,Bajaj  Pulsar,18800.0,46555.0,First Owner,Bajaj
+29900,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+8552,Honda CB Shine,27000.0,89454.0,Third Owner,Honda
+27287,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+21504,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+24443,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+29392,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+11368,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+28886,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+6483,Honda Dream Yuga,19000.0,25878.0,First Owner,Honda
+22939,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+11153,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+24677,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+25083,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+8398,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+26800,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+13355,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+388,Bajaj V15 150cc,35000.0,18000.0,First Owner,Bajaj
+7947,Bajaj Pulsar AS200,75000.0,12511.0,First Owner,Bajaj
+10182,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+24004,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+31788,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+3833,Honda Livo 110cc,31000.0,31282.0,First Owner,Honda
+2310,Royal Enfield Classic,66200.0,3400.0,First Owner,Royal Enfield
+4393,Bajaj CT 100,23000.0,22173.0,First Owner,Bajaj
+8900,Yamaha Fazer25 250cc,133500.0,17000.0,First Owner,Yamaha
+21021,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+5803,Bajaj Dominar 400,143000.0,3515.0,First Owner,Bajaj
+24403,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+13927,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+26297,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+24444,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+26301,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+13078,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+12927,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+29170,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+5746,Royal Enfield Thunderbird,112100.0,22800.0,First Owner,Royal Enfield
+6480,Honda CBF Stunner,22000.0,87056.0,First Owner,Honda
+21185,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+29653,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+26851,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+29893,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+24595,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+21334,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+8248,Bajaj Avenger Cruise,77777.0,11000.0,First Owner,Bajaj
+6769,Hero Splendor Plus,45000.0,18576.0,First Owner,Hero
+5038,Bajaj V15 150cc,42000.0,12000.0,First Owner,Bajaj
+3792,Mahindra Mojo XT300,149292.0,17564.0,First Owner,Mahindra
+10244,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+843,Hero Ignitor Disc,45000.0,12699.0,First Owner,Hero
+19061,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+1255,Benelli TNT 25,145200.0,11200.0,First Owner,Benelli
+9328,Suzuki Gixxer 150cc,70000.0,12679.0,First Owner,Suzuki
+20235,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+462,Bajaj V12 125cc,45000.0,10200.0,First Owner,Bajaj
+28612,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+24524,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+8364,Royal Enfield Thunderbird,92000.0,24707.0,First Owner,Royal Enfield
+25361,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+8341,TVS Apache RTR,65000.0,18070.0,First Owner,TVS
+18874,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+23385,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+31501,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+25755,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+8925,Hero Passion 100cc,16000.0,26512.0,Second Owner,Hero
+7063,Bajaj V15 150cc,34500.0,26476.0,First Owner,Bajaj
+13717,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+20784,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+30189,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+20804,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+10739,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+16519,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+26568,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+21193,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+2464,Honda CB Hornet,55000.0,89000.0,First Owner,Honda
+25382,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+16780,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+18405,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+5501,Royal Enfield Standard,95000.0,29000.0,First Owner,Royal Enfield
+5859,Royal Enfield Thunderbird,117000.0,3400.0,First Owner,Royal Enfield
+2858,Bajaj V15 150cc,50000.0,16000.0,First Owner,Bajaj
+21014,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+20826,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+16902,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+25659,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+7792,Bajaj Pulsar 180cc,60000.0,3500.0,First Owner,Bajaj
+9441,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+15016,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+26299,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+27089,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+19638,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+17668,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+8013,Bajaj Avenger Street,65000.0,20100.0,First Owner,Bajaj
+7138,TVS Sport 100cc,34000.0,4474.0,First Owner,TVS
+1412,Hyosung GT650R,350000.0,2500.0,First Owner,Hyosung
+23463,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+22502,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+31243,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+3383,Harley-Davidson Street 750,450000.0,1174.0,Second Owner,Harley-Davidson
+17970,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+10217,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+8729,Bajaj Pulsar 150cc,20000.0,61991.0,First Owner,Bajaj
+23767,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+27958,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+32148,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+14149,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+24122,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+23417,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+8856,TVS Apache RTR,70000.0,12600.0,First Owner,TVS
+8880,Bajaj Pulsar NS200,81000.0,8759.0,First Owner,Bajaj
+13253,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+22791,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+6011,Royal Enfield Bullet,82000.0,146642.0,First Owner,Royal Enfield
+29474,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+13206,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+12522,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+491,Royal Enfield Bullet,126000.0,6518.0,First Owner,Royal Enfield
+10772,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+11275,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+12994,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+3639,Royal Enfield Classic,126000.0,6000.0,First Owner,Royal Enfield
+2275,Bajaj Avenger 220cc,28500.0,26452.0,First Owner,Bajaj
+13316,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+10670,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+16591,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+10370,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+19748,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+2900,Suzuki Gixxer SF,55000.0,29000.0,First Owner,Suzuki
+12902,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+11574,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+23838,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+19331,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+29324,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+5720,Honda CB Unicorn,20000.0,35063.0,Second Owner,Honda
+30363,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+25881,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+18487,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+18659,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+9787,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+7212,TVS Apache RR310,189400.0,8000.0,First Owner,TVS
+12407,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+31842,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+15201,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+15181,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+15050,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+18331,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+11474,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+30063,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+28674,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+23603,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+14682,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+26492,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+3725,Honda CBR 250R,102000.0,16631.0,Second Owner,Honda
+20432,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+8180,Yamaha Fazer 150cc,25000.0,16000.0,First Owner,Yamaha
+4148,Suzuki Gixxer SF,58690.0,20000.0,First Owner,Suzuki
+8629,Bajaj Pulsar 150cc,21000.0,29057.0,First Owner,Bajaj
+3905,TVS Apache RTR,50000.0,22932.0,Second Owner,TVS
+20032,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+21048,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+19851,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+11680,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+31764,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+31742,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+24750,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+10275,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+30166,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+23079,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+14242,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+24964,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+14107,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+6267,Honda CBF Stunner,24000.0,26520.0,First Owner,Honda
+26856,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+19771,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+4716,TVS Apache RTR,75000.0,27030.0,First Owner,TVS
+30010,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+26436,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+18840,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+2153,TVS Apache RTR,68000.0,32644.0,First Owner,TVS
+10009,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+16595,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+14967,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+4955,KTM RC 390cc,111400.0,13600.0,First Owner,KTM
+11605,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+2726,Hero Passion Plus,10500.0,39252.0,First Owner,Hero
+1684,KTM RC 200cc,110000.0,8000.0,First Owner,KTM
+21716,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+31321,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+22221,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+14862,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+27586,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+26767,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+11256,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+2554,Royal Enfield Thunderbird,123800.0,2600.0,First Owner,Royal Enfield
+6925,Bajaj Avenger 220cc,65000.0,23000.0,First Owner,Bajaj
+5954,Bajaj Pulsar AS200,58000.0,40000.0,Second Owner,Bajaj
+19040,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+4384,Suzuki Intruder 150cc,80000.0,1700.0,First Owner,Suzuki
+23432,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+3910,Bajaj Platina Alloy,37000.0,17663.0,First Owner,Bajaj
+13291,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+3402,Bajaj Pulsar 150cc,32500.0,56482.0,First Owner,Bajaj
+8373,Hyosung GT250R,220000.0,1884.0,First Owner,Hyosung
+20146,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+9687,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+22748,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+13953,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+21356,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+22833,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+11788,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+8615,Bajaj Avenger Cruise,83000.0,5000.0,First Owner,Bajaj
+6462,Hero CD Deluxe,15000.0,22967.0,First Owner,Hero
+2029,Honda CBR 150R,58000.0,12728.0,First Owner,Honda
+12890,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+11229,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+1377,Royal Enfield Classic,96000.0,20032.0,First Owner,Royal Enfield
+7922,Bajaj Avenger 220cc,36000.0,10000.0,Second Owner,Bajaj
+1118,KTM RC 390cc,180000.0,9868.0,First Owner,KTM
+30022,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+30971,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+21739,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+10166,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+4867,Yamaha FZs 150cc,35000.0,17325.0,First Owner,Yamaha
+20535,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+19327,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+8354,Bajaj Pulsar AS150,50000.0,12859.0,First Owner,Bajaj
+21697,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+1786,Bajaj V15 150cc,55000.0,5000.0,First Owner,Bajaj
+26288,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+12139,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+17742,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+1406,Hero Splendor Plus,45000.0,717.0,First Owner,Hero
+26986,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+2527,Honda CB Unicorn,30000.0,49000.0,First Owner,Honda
+28770,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+28117,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+16782,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+6392,Bajaj Avenger 220cc,45000.0,22222.0,First Owner,Bajaj
+16030,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+9502,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+28739,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+18092,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+26890,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+32357,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+30588,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+4851,TVS Apache RTR,45000.0,20431.0,First Owner,TVS
+18865,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+22855,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+4372,Royal Enfield Classic,115000.0,17318.0,First Owner,Royal Enfield
+22739,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+16505,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+13038,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+20031,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+2129,Yamaha Fazer FI,70000.0,9500.0,First Owner,Yamaha
+27720,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+28866,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+7647,Kawasaki Ninja 650,425000.0,4800.0,Second Owner,Kawasaki
+13151,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+1247,Hero HF Deluxe,35000.0,16432.0,First Owner,Hero
+4200,Yamaha YZF-R1 1000cc,700000.0,285.0,First Owner,Yamaha
+17210,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+10387,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+22758,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+18975,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+23979,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+30070,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+14117,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+26220,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+5657,Bajaj Discover 135cc,19000.0,69415.0,First Owner,Bajaj
+32323,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18719,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+29597,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+3315,Bajaj Avenger Street,50000.0,10500.0,First Owner,Bajaj
+24957,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+14724,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+9905,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+17865,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+17913,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+30875,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+26980,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+4894,Royal Enfield Classic,130000.0,5123.0,First Owner,Royal Enfield
+26083,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+1516,Hero Splendor Plus,9500.0,60000.0,First Owner,Hero
+6087,Honda CB Shine,27500.0,26000.0,First Owner,Honda
+32041,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+28019,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+21081,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+2383,Bajaj Avenger Street,62000.0,16128.0,First Owner,Bajaj
+21851,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+30914,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+11828,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+22051,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+9100,Hero Passion Plus,20000.0,2584.0,First Owner,Hero
+28036,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+23534,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+7228,Bajaj Avenger Cruise,75000.0,24400.0,First Owner,Bajaj
+7442,TVS Star Sport,21000.0,23000.0,First Owner,TVS
+31503,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+12290,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+18481,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+24827,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+20385,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+457,Hero Passion Xpro,26000.0,28000.0,First Owner,Hero
+30633,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+30806,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+27003,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+1398,Hero CD Deluxe,13500.0,30000.0,First Owner,Hero
+21084,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+15854,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+15333,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+24900,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+96,Suzuki Gixxer Fi,96700.0,5100.0,First Owner,Suzuki
+9904,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+31692,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+25852,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+24773,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+26993,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+31191,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+5653,Harley-Davidson Street 750,395000.0,16523.0,First Owner,Harley-Davidson
+16398,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+28701,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+13118,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+28168,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+30435,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+12892,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+16045,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+27525,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+4528,Bajaj Discover 100cc,18000.0,39363.0,First Owner,Bajaj
+17406,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+5654,Honda CB Shine,22000.0,49000.0,First Owner,Honda
+13678,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+8317,Bajaj Pulsar 150cc,26000.0,21825.0,First Owner,Bajaj
+1281,Royal Enfield Thunderbird,110000.0,24271.0,First Owner,Royal Enfield
+23192,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+25496,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+25374,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+12681,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+15888,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+625,Yamaha FZ25 ABS,138000.0,7253.0,First Owner,Yamaha
+20845,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+15273,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+21235,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+7341,KTM Duke 390cc,175000.0,23500.0,First Owner,KTM
+19883,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+9125,Bajaj Discover 135cc,17500.0,54889.0,First Owner,Bajaj
+16178,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+210,Bajaj Pulsar 180cc,62500.0,26000.0,First Owner,Bajaj
+28354,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+21458,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+15044,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+5610,Yamaha SS 125,18000.0,19443.0,Second Owner,Yamaha
+13719,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+32377,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+11513,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+9410,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+30819,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+14417,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+4667,Honda Dream Yuga,25000.0,51917.0,First Owner,Honda
+22782,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+2331,Royal Enfield Continental,94836.0,8000.0,First Owner,Royal Enfield
+5836,TVS Sport 100cc,29999.0,13058.0,First Owner,TVS
+32136,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+2791,Mahindra Centuro 110cc,22500.0,20000.0,First Owner,Mahindra
+16183,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+18280,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+2678,Royal Enfield Bullet,110000.0,75956.0,First Owner,Royal Enfield
+1337,KTM Duke 390cc,210000.0,5000.0,First Owner,KTM
+9295,TVS Apache RTR,39000.0,1200.0,First Owner,TVS
+15297,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+5979,Bajaj Avenger 220cc,65000.0,30377.0,First Owner,Bajaj
+3268,TVS Apache RTR,44000.0,36000.0,First Owner,TVS
+9517,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+17666,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+2034,TVS Apache RTR,85000.0,5600.0,First Owner,TVS
+4308,Honda Livo 110cc,31000.0,15149.0,Second Owner,Honda
+28750,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+15236,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+655,Yamaha FZs 150cc,77500.0,45.0,First Owner,Yamaha
+26596,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+14344,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+2932,Bajaj Pulsar 150cc,12000.0,43596.0,First Owner,Bajaj
+14320,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+3469,Bajaj Pulsar 150cc,17000.0,51411.0,First Owner,Bajaj
+20332,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+23025,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+1520,Royal Enfield Classic,82400.0,52000.0,First Owner,Royal Enfield
+10463,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+14936,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+4772,Hero Splendor iSmart,25000.0,17799.0,First Owner,Hero
+31423,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+18795,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+32556,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+20222,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+23503,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+26225,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+11142,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+9128,Honda CB Shine,37000.0,14993.0,First Owner,Honda
+27704,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+6354,Bajaj Avenger 220cc,65000.0,19134.0,First Owner,Bajaj
+21553,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+2876,Yamaha Fazer 150cc,37000.0,48500.0,First Owner,Yamaha
+8834,Royal Enfield Thunderbird,125000.0,13000.0,First Owner,Royal Enfield
+17851,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+8544,Yamaha FZ 150cc,36000.0,32231.0,First Owner,Yamaha
+3697,Royal Enfield Classic,100000.0,8942.0,First Owner,Royal Enfield
+21516,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+3705,Bajaj Pulsar RS200,80000.0,10647.0,First Owner,Bajaj
+24321,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+12689,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+21056,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+4421,Royal Enfield Bullet,103000.0,23705.0,First Owner,Royal Enfield
+624,Royal Enfield Classic,129500.0,6300.0,First Owner,Royal Enfield
+16188,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+6730,Royal Enfield Bullet,114000.0,1661.0,First Owner,Royal Enfield
+28717,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+27061,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+20290,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+2980,Royal Enfield‎ Bullet,135000.0,85000.0,First Owner,Royal Enfield
+25355,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+14770,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+27904,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+1815,Hero Xtreme 200R,80000.0,12000.0,First Owner,Hero
+12107,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+24903,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+9381,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+5133,Royal Enfield Thunderbird,170000.0,500.0,First Owner,Royal Enfield
+17385,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+31437,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+18113,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+26115,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+19513,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+32036,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+13867,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+30691,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+3847,Royal Enfield Bullet,95000.0,20069.0,Second Owner,Royal Enfield
+20951,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+12362,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+18688,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+20548,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+25853,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+7113,Yamaha FZ V,75000.0,13303.0,First Owner,Yamaha
+5556,Yamaha FZs 150cc,49999.0,21500.0,Second Owner,Yamaha
+11846,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+13577,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+22807,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+22810,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+13361,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+1788,Bajaj Boxer BM150,22345.0,87383.0,First Owner,Bajaj
+32225,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+22333,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+762,Yamaha FZ25 250cc,85000.0,13000.0,First Owner,Yamaha
+28189,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+19646,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+4845,Honda CB Shine,37500.0,20192.0,First Owner,Honda
+13060,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+30798,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+25286,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+11195,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+1616,Hero Passion Pro,23000.0,30000.0,Second Owner,Hero
+1278,Royal Enfield Bullet,130000.0,6600.0,First Owner,Royal Enfield
+4850,KTM Duke 250cc,140000.0,9465.0,First Owner,KTM
+24307,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+19817,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+15143,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+25512,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+26133,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+25532,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+29479,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+30388,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+30821,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+20064,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+2388,Royal Enfield Himalayan,120000.0,15000.0,First Owner,Royal Enfield
+3246,Bajaj Avenger Cruise,51000.0,18791.0,First Owner,Bajaj
+25561,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+26310,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+21724,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+22682,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+27381,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+20770,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+5894,Hero Super Splendor,54000.0,18276.0,First Owner,Hero
+29023,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+3938,Bajaj Pulsar 150cc,20000.0,66386.0,First Owner,Bajaj
+13066,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+9800,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+22437,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+18536,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+30918,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+30167,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+27588,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+4847,TVS Apache RTR,95000.0,14000.0,First Owner,TVS
+14442,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+3946,Hero Xtreme 200R,90000.0,1406.0,First Owner,Hero
+16870,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+24727,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+2744,Royal Enfield Thunderbird,64000.0,31571.0,Second Owner,Royal Enfield
+32359,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+27775,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+32476,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+17734,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+21022,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+14316,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+8610,Hero Karizma ZMR,43000.0,70000.0,First Owner,Hero
+4949,Bajaj Pulsar 220F,90000.0,2463.0,First Owner,Bajaj
+22873,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+13512,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+28766,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+22456,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+14386,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+6319,Bajaj Discover 125cc,28000.0,15000.0,First Owner,Bajaj
+12573,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+26768,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+29684,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+12596,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+11655,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+26383,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+31512,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+10765,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+896,Hero Passion Pro,35242.0,3000.0,First Owner,Hero
+15291,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+2476,Royal Enfield Thunderbird,84200.0,21000.0,First Owner,Royal Enfield
+27443,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+30463,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+30461,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+22636,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+27864,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+9296,TVS Star City,20000.0,49500.0,First Owner,TVS
+13172,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+25565,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+21717,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+12131,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+2848,Royal Enfield Classic,105000.0,11600.0,First Owner,Royal Enfield
+5068,Bajaj V15 150cc,52000.0,4725.0,First Owner,Bajaj
+928,Yamaha FZ16 150cc,28000.0,100000.0,First Owner,Yamaha
+20839,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+6187,Royal Enfield Bullet,115000.0,23552.0,First Owner,Royal Enfield
+465,Royal Enfield Classic,133000.0,8000.0,First Owner,Royal Enfield
+5081,Bajaj Discover 100cc,21100.0,21000.0,First Owner,Bajaj
+14931,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+27572,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+8952,Bajaj Pulsar 150cc,32000.0,40000.0,First Owner,Bajaj
+26076,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+21766,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+19591,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+4047,Bajaj Avenger Cruise,71000.0,2700.0,First Owner,Bajaj
+7760,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+27214,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+9534,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+1668,TVS Apache RR310,200000.0,10550.0,First Owner,TVS
+6419,Suzuki GS 150,25000.0,30000.0,First Owner,Suzuki
+28055,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+13132,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+31300,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+22955,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+11007,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+9642,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+31227,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+13019,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+13999,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+18253,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+2361,Royal Enfield Classic,132000.0,9648.0,First Owner,Royal Enfield
+29797,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+4817,Harley-Davidson Street 750,350000.0,8600.0,First Owner,Harley-Davidson
+31614,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+11919,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+25653,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+24922,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+5107,KTM Duke 390cc,133000.0,26000.0,First Owner,KTM
+29237,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+15427,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+3108,Bajaj Discover 125cc,14900.0,99890.0,First Owner,Bajaj
+29561,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+27289,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+13764,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+19812,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+30780,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+27335,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+1043,Yamaha FZ16 150cc,32000.0,28000.0,First Owner,Yamaha
+12353,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+2885,Honda CB Shine,22500.0,17644.0,First Owner,Honda
+9758,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+3353,BMW G 310,360000.0,7093.0,First Owner,BMW
+15137,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+31958,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+16641,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+26194,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+243,Bajaj Avenger 220cc,48000.0,26000.0,First Owner,Bajaj
+7668,Royal Enfield Continental,135000.0,7582.0,First Owner,Royal Enfield
+30268,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+24884,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+12099,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+4639,Hero Splendor Plus,24000.0,24593.0,First Owner,Hero
+28957,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+20830,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+3427,KTM RC 390cc,135000.0,32000.0,First Owner,KTM
+5201,Yamaha YZF-R15 2.0,66400.0,27481.0,Second Owner,Yamaha
+7178,Honda CB Hornet,70000.0,30000.0,First Owner,Honda
+5915,Bajaj Avenger 220cc,32000.0,24530.0,Third Owner,Bajaj
+28542,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+14753,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+4305,Hero Splendor NXG,15000.0,56800.0,First Owner,Hero
+27478,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+9473,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+20892,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+3673,Kawasaki Ninja 650cc,415000.0,8500.0,First Owner,Kawasaki
+22732,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+26860,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+5467,Bajaj Pulsar 220cc,26000.0,55686.0,Second Owner,Bajaj
+24396,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+9353,Royal Enfield Bullet,85000.0,38000.0,First Owner,Royal Enfield
+28400,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+1188,TVS Apache RTR,93000.0,9772.0,First Owner,TVS
+24415,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+12480,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+23264,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+1660,Bajaj Avenger 220cc,32000.0,20500.0,First Owner,Bajaj
+2974,Bajaj Avenger 220cc,38000.0,40000.0,First Owner,Bajaj
+1655,KTM RC 200cc,138000.0,22000.0,First Owner,KTM
+27046,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+18115,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+5070,Yamaha YZF-R15 V3,121000.0,13013.0,First Owner,Yamaha
+10022,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+3874,Yamaha FZ16 150cc,47000.0,18415.0,First Owner,Yamaha
+3547,Bajaj Avenger 220cc,60600.0,7200.0,First Owner,Bajaj
+428,Royal Enfield Interceptor,265000.0,12900.0,First Owner,Royal Enfield
+14398,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+11420,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+20848,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+23671,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+26794,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+20338,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+11323,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+10191,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+18439,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+29210,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+9739,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+15808,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+13740,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+18760,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+21464,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+1791,Bajaj Pulsar 150cc,22000.0,19262.0,First Owner,Bajaj
+30940,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+27008,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+8873,Bajaj Pulsar NS,29000.0,48500.0,First Owner,Bajaj
+14476,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+17163,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+29638,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+17767,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+2647,Bajaj Pulsar 150cc,12000.0,32148.0,Second Owner,Bajaj
+26073,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+31396,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+25813,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+24633,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+32455,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+9621,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+14420,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+12073,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+6745,Hero Splendor Pro,22500.0,35000.0,Third Owner,Hero
+28709,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+10660,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+3470,Mahindra Mojo 300cc,140000.0,6000.0,Second Owner,Mahindra
+25026,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+30730,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+6534,Honda CBR 150R,55000.0,30000.0,First Owner,Honda
+23082,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+19637,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+30597,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+7576,Kawasaki Ninja 650cc,333333.0,16000.0,First Owner,Kawasaki
+4457,Bajaj Discover 100T,18000.0,22342.0,First Owner,Bajaj
+21122,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+26407,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+7012,Yamaha Fazer FI,68000.0,9103.0,Second Owner,Yamaha
+29001,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+28204,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+1122,Honda CB ShineSP,60000.0,5500.0,First Owner,Honda
+2564,Honda CBF Stunner,13200.0,37000.0,First Owner,Honda
+2536,Royal Enfield Thunderbird,110000.0,24500.0,First Owner,Royal Enfield
+7542,Hero CD Dawn,15000.0,80000.0,First Owner,Hero
+733,TVS Apache RR310,199999.0,6550.0,First Owner,TVS
+23553,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+6179,Yamaha YZF-R15 2.0,110000.0,18692.0,First Owner,Yamaha
+6814,Bajaj Avenger 220cc,32000.0,24530.0,Third Owner,Bajaj
+5456,Yamaha Gladiator 125cc,20000.0,38500.0,Fourth Owner Or More,Yamaha
+19214,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+12093,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+725,Royal Enfield Bullet,72378.0,21496.0,First Owner,Royal Enfield
+29601,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+3386,Royal Enfield Thunderbird,85000.0,7504.0,Second Owner,Royal Enfield
+7306,TVS Apache RTR,36000.0,21578.0,First Owner,TVS
+23104,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+3396,Bajaj Avenger 220cc,51000.0,25102.0,First Owner,Bajaj
+27500,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+9798,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+18081,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+13589,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+3949,Bajaj Discover 100cc,15000.0,11065.0,Second Owner,Bajaj
+6531,Hero Ignitor 125cc,33000.0,33000.0,First Owner,Hero
+30012,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+16579,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+8372,Bajaj Avenger Cruise,80000.0,15500.0,First Owner,Bajaj
+12368,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+21722,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+19051,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+13199,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+14632,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+266,Royal Enfield Thunderbird,100000.0,25000.0,First Owner,Royal Enfield
+30990,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+26833,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+4199,Benelli TNT 300,192000.0,16000.0,First Owner,Benelli
+25318,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+28700,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+23168,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+10495,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+29547,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+26396,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+18347,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+15685,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+21298,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+9309,Bajaj Pulsar AS200,45000.0,30.0,Second Owner,Bajaj
+4450,Royal Enfield Classic,74000.0,47518.0,First Owner,Royal Enfield
+27336,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+25980,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+12023,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+2868,Bajaj Pulsar 135LS,32000.0,34378.0,First Owner,Bajaj
+30723,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+4219,Yamaha YZF-R15 150cc,79000.0,22000.0,First Owner,Yamaha
+9655,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+29819,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+28368,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+16177,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+4794,Bajaj XCD 125,10000.0,50745.0,First Owner,Bajaj
+7515,Benelli TNT 300,250000.0,11400.0,First Owner,Benelli
+26159,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+729,Bajaj Dominar 400,150800.0,7000.0,First Owner,Bajaj
+6872,MV Agusta F3,1500000.0,2000.0,First Owner,MV
+24392,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+9443,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+13088,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+7221,Yamaha Fazer FI,45612.0,36000.0,First Owner,Yamaha
+12958,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+7918,Bajaj Pulsar 150cc,30000.0,45322.0,First Owner,Bajaj
+1092,Honda Dream Yuga,30000.0,61743.0,First Owner,Honda
+11604,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+16975,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+13572,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+11931,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+10982,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+27743,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+3282,Royal Enfield Thunderbird,115000.0,9100.0,First Owner,Royal Enfield
+22709,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+23647,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+17803,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+2867,Bajaj Pulsar 150cc,15000.0,27000.0,First Owner,Bajaj
+25352,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+7327,Royal Enfield Thunderbird,58000.0,9572.0,First Owner,Royal Enfield
+28093,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+5824,Hero Splendor Pro,21700.0,30000.0,Second Owner,Hero
+18285,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+8960,Honda CB ShineSP,54000.0,17000.0,First Owner,Honda
+13090,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+2308,Honda CB Unicorn,35000.0,9000.0,Second Owner,Honda
+11491,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+12469,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+27415,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+8214,Bajaj Pulsar NS200,80000.0,17000.0,First Owner,Bajaj
+6202,Hero HF Deluxe,38000.0,11799.0,First Owner,Hero
+31674,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+27888,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+7339,Bajaj Avenger 220cc,35000.0,34000.0,First Owner,Bajaj
+16954,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+1487,Bajaj Pulsar 135LS,42000.0,11898.0,First Owner,Bajaj
+31140,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+14070,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+8528,Bajaj Pulsar 150cc,22000.0,33256.0,First Owner,Bajaj
+13468,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+24357,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+32350,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+8643,Royal Enfield Bullet,75000.0,22805.0,First Owner,Royal Enfield
+30829,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+7348,Ducati Monster 797,836000.0,7224.0,First Owner,Ducati
+22306,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+18785,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+21424,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+23467,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+1282,Bajaj Pulsar AS150,35000.0,35000.0,Second Owner,Bajaj
+27630,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18993,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+32326,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+18139,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+873,Yamaha YZF-R15 S,89025.0,5800.0,First Owner,Yamaha
+14307,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+14668,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+17644,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+3710,Royal Enfield Standard,101700.0,20600.0,First Owner,Royal Enfield
+27491,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+26019,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+20481,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+18294,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+22850,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+273,Royal Enfield Classic,125000.0,11000.0,First Owner,Royal Enfield
+1330,Honda CB Shine,25000.0,15500.0,Second Owner,Honda
+22427,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+11743,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+3160,KTM RC 390cc,170000.0,8000.0,First Owner,KTM
+29337,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+9003,Honda CB Shine,35000.0,25000.0,First Owner,Honda
+31875,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+22731,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+423,Bajaj Pulsar NS200,69500.0,28000.0,First Owner,Bajaj
+4341,Bajaj Pulsar 135LS,30000.0,50000.0,Second Owner,Bajaj
+5198,Bajaj Pulsar 150cc,40000.0,75000.0,First Owner,Bajaj
+5863,Bajaj Pulsar AS150,43600.0,15675.0,First Owner,Bajaj
+27699,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+14198,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+20604,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+14578,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+14276,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+1298,Hero Splendor 100cc,21000.0,24000.0,Second Owner,Hero
+2320,Hero Splendor Pro,39000.0,20700.0,First Owner,Hero
+19984,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+23094,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+20589,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+19278,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+8765,Hero Karizma R,32000.0,18000.0,First Owner,Hero
+28646,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+13458,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+16420,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+29730,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+27749,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+15521,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+17489,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+10868,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+14850,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+15281,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+25584,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+10830,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+26769,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+12024,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+24521,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+11815,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+26607,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+5040,Bajaj Avenger Cruise,61500.0,15264.0,First Owner,Bajaj
+9801,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+22952,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+996,Bajaj Pulsar RS200,80000.0,21700.0,First Owner,Bajaj
+27492,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+14200,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+16561,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+19172,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+12885,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+9889,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+17735,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+1339,Benelli TNT 600i,380000.0,15000.0,First Owner,Benelli
+22899,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+11693,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+21101,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+24822,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+6204,Hero CD Deluxe,36000.0,16096.0,First Owner,Hero
+31971,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+11579,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+30777,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+27079,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+16095,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+28677,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+13976,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+26744,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+13633,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+17828,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+25472,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+8375,Bajaj Avenger Street,60000.0,16971.0,First Owner,Bajaj
+850,Royal Enfield Himalayan,180000.0,200.0,First Owner,Royal Enfield
+3706,Honda Dream Yuga,21000.0,54105.0,First Owner,Honda
+26658,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+12717,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+2406,Honda CB ShineSP,65000.0,2750.0,First Owner,Honda
+6478,Bajaj Discover 125cc,20000.0,24530.0,First Owner,Bajaj
+31388,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+28606,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+6633,Royal Enfield Classic,111000.0,55532.0,First Owner,Royal Enfield
+24979,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+32416,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+27436,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+18150,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+2213,Hero Passion Pro,23000.0,50000.0,First Owner,Hero
+25728,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+3923,TVS Sport 100cc,23000.0,26802.0,First Owner,TVS
+20321,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+26701,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+19618,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+18857,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+31161,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+26380,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+24547,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+9183,Royal Enfield Thunderbird,35800.0,90408.0,Third Owner,Royal Enfield
+20068,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+24571,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+18373,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+16435,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+26877,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+20368,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+23670,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+5282,TVS Apache RTR,40000.0,80000.0,First Owner,TVS
+13315,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+2001,Hero Passion Pro,26000.0,28658.0,First Owner,Hero
+11501,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+8355,Hero HF Deluxe,35000.0,10234.0,First Owner,Hero
+13677,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+27646,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+7241,Honda Livo Disc,55000.0,2505.0,First Owner,Honda
+24511,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+28132,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+30975,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+14171,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+30506,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+31999,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+2772,Honda CB Shine,58000.0,8000.0,First Owner,Honda
+16495,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+14177,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+5662,Yamaha FZ S,95000.0,2617.0,First Owner,Yamaha
+14418,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+2229,Hyosung GT 650N,230000.0,7800.0,First Owner,Hyosung
+22859,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+28448,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+30809,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+15658,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+17384,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+18362,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+27314,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+4638,Royal Enfield Classic,70000.0,28411.0,First Owner,Royal Enfield
+8124,Mahindra Centuro 110cc,25000.0,46956.0,First Owner,Mahindra
+17963,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+20336,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+17594,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+3507,Bajaj Discover 100M,25000.0,25000.0,First Owner,Bajaj
+9097,Hero Passion Pro,22000.0,51940.0,First Owner,Hero
+18104,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+7220,TVS Apache RTR,75000.0,8500.0,First Owner,TVS
+5383,Royal Enfield Thunderbird,125000.0,20000.0,First Owner,Royal Enfield
+32545,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+30255,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+1227,Royal Enfield Thunderbird,47000.0,21000.0,First Owner,Royal Enfield
+27582,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+24856,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+24637,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+3660,Royal Enfield Classic,90000.0,27922.0,First Owner,Royal Enfield
+27304,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+26587,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+1731,Hero HF Deluxe,14500.0,17604.0,First Owner,Hero
+3416,Bajaj Pulsar 220F,39000.0,25600.0,Second Owner,Bajaj
+19244,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+21405,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+4771,TVS Apache RTR,30000.0,40000.0,First Owner,TVS
+6453,KTM Duke 390cc,216100.0,11500.0,First Owner,KTM
+14697,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+4344,Yamaha YZF-R15 2.0,65000.0,21000.0,First Owner,Yamaha
+16750,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+6502,Royal Enfield Classic,78000.0,36000.0,First Owner,Royal Enfield
+7330,Honda CB Shine,30000.0,45355.0,First Owner,Honda
+19200,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+7255,KTM Duke 390cc,95000.0,25000.0,First Owner,KTM
+11747,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+27067,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+18472,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+12747,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+28900,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+4645,Royal Enfield Classic,89889.0,3000.0,First Owner,Royal Enfield
+20638,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+17782,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+28131,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+31561,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+26051,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+359,BMW G 310,255000.0,2200.0,First Owner,BMW
+26255,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+29173,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+10277,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+19351,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+25916,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+6111,Bajaj Pulsar AS150,54147.0,41000.0,First Owner,Bajaj
+6390,Bajaj Avenger 220cc,55000.0,18000.0,First Owner,Bajaj
+15004,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+25788,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+4061,Yamaha SZR 150cc,28000.0,20555.0,First Owner,Yamaha
+29021,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+1385,Bajaj Discover 125cc,9500.0,42014.0,First Owner,Bajaj
+19755,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+25163,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+20328,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+25266,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+31550,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+2805,Bajaj V15 150cc,50000.0,14000.0,First Owner,Bajaj
+11018,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+25319,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+12854,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+13278,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+1328,Royal Enfield Classic,116100.0,8000.0,First Owner,Royal Enfield
+13144,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+5035,Bajaj V15 150cc,35000.0,35020.0,First Owner,Bajaj
+17284,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+26609,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+31884,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+5094,Hero Hunk 150cc,18200.0,45000.0,First Owner,Hero
+19524,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+28910,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+2960,TVS Apache RTR,47000.0,24000.0,Second Owner,TVS
+24408,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+24168,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+24864,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+22037,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+16239,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+4343,Yamaha FZ25 250cc,90000.0,18100.0,First Owner,Yamaha
+11541,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+12193,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+28490,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+1441,Hero Splendor Plus,23000.0,15367.0,First Owner,Hero
+16431,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+21836,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+23423,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+21887,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+26785,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+16771,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+11832,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+21178,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+10480,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+1510,Hero Splendor Plus,42000.0,17962.0,First Owner,Hero
+32051,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+25941,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+10018,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+16403,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+2730,Honda CBF Stunner,17000.0,30124.0,First Owner,Honda
+4419,Bajaj Avenger Street,60000.0,18800.0,First Owner,Bajaj
+24962,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+32485,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+30267,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+6528,Bajaj Discover 125cc,16500.0,16181.0,First Owner,Bajaj
+4689,TVS Star City,10000.0,43000.0,First Owner,TVS
+2201,Bajaj Avenger Street,60000.0,15000.0,First Owner,Bajaj
+17620,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+19516,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+14176,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+22317,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+1981,Royal Enfield Bullet,70440.0,41036.0,First Owner,Royal Enfield
+9291,TVS Apache RTR,48000.0,17746.0,First Owner,TVS
+30639,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+27923,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+27611,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+24003,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+19973,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+3193,Royal Enfield Thunderbird,110000.0,10400.0,First Owner,Royal Enfield
+16948,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+15293,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+20663,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+14304,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+8021,Bajaj Dominar 400,150000.0,11535.0,First Owner,Bajaj
+4902,Hero Splendor iSmart,25000.0,17799.0,First Owner,Hero
+22719,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+19328,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+2168,Royal Enfield Classic,96100.0,9800.0,First Owner,Royal Enfield
+23937,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+3125,Bajaj Avenger 220cc,75000.0,8600.0,First Owner,Bajaj
+30299,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+18398,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+29661,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+17104,Hero Super Splendor,15600.0,84186.0,First Owner,Hero
+27831,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+11811,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+6003,TVS Apache RTR,90700.0,900.0,First Owner,TVS
+8390,Royal Enfield Classic,75000.0,17924.0,Second Owner,Royal Enfield
+28274,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+11215,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+28381,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+11453,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+26797,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+7721,Honda CB Trigger,52000.0,25000.0,First Owner,Honda
+2265,Yamaha RX135 135cc,85000.0,300.0,Third Owner,Yamaha
+15819,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+17470,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+4751,Bajaj Discover 125cc,18800.0,72000.0,First Owner,Bajaj
+23,Royal Enfield Classic,121700.0,24520.0,First Owner,Royal Enfield
+11131,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+23637,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+20542,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+9512,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+27867,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+2973,Hero CD Deluxe,19500.0,10000.0,First Owner,Hero
+11191,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+22314,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+8157,Royal Enfield Thunderbird,85000.0,45000.0,First Owner,Royal Enfield
+31903,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+12214,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+27317,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+4335,Hero Passion Pro,26000.0,28024.0,First Owner,Hero
+4981,Bajaj Pulsar 220cc,51000.0,39766.0,First Owner,Bajaj
+28724,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+15113,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+7047,Royal Enfield Bullet,100000.0,18000.0,First Owner,Royal Enfield
+19608,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+10193,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+14431,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+14709,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+26857,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+9090,Bajaj Discover 100M,30000.0,18500.0,First Owner,Bajaj
+30642,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+24053,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+27239,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+578,Kawasaki Ninja 650,526300.0,12000.0,First Owner,Kawasaki
+25358,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+21094,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+2893,Bajaj Discover 125cc,13000.0,32042.0,First Owner,Bajaj
+22040,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+12590,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+31302,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+17499,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+26722,Yamaha SZ-RR 150cc,20000.0,52000.0,First Owner,Yamaha
+14811,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+22088,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+15931,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+10337,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+31810,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+8409,Royal Enfield Classic,120000.0,3626.0,First Owner,Royal Enfield
+9366,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+14636,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+5771,Suzuki Gixxer SF,80000.0,14000.0,First Owner,Suzuki
+16734,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+11114,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+11717,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+13346,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+28088,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+5128,Honda CB ShineSP,39200.0,16500.0,Second Owner,Honda
+11052,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+22407,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+6604,Hero Splendor Plus,23000.0,17537.0,First Owner,Hero
+1318,TVS Apache RTR,125000.0,530.0,First Owner,TVS
+6438,TVS Apache RR310,220000.0,5432.0,First Owner,TVS
+8692,Hero Super Splendor,31000.0,33548.0,First Owner,Hero
+18670,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+30383,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+2540,Royal Enfield Bullet,81865.0,36000.0,First Owner,Royal Enfield
+4280,Honda CBF Stunner,20000.0,18095.0,First Owner,Honda
+4227,Suzuki Gixxer 150cc,70000.0,28112.0,First Owner,Suzuki
+19740,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+28485,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+15370,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+12659,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+20189,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+3508,KTM RC 390cc,250000.0,3000.0,First Owner,KTM
+5500,TVS Apache RTR,95000.0,1990.0,First Owner,TVS
+19854,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+26728,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+13924,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+23018,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+8929,Hero Super Splendor,30000.0,40000.0,Second Owner,Hero
+17142,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+17842,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+24893,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+31513,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+30362,Hero Passion 100cc,15000.0,35000.0,Second Owner,Hero
+19919,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+8494,Yamaha YZF-R15 S,90000.0,14060.0,First Owner,Yamaha
+32234,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+5865,Bajaj Pulsar 135LS,30000.0,32000.0,First Owner,Bajaj
+7346,Bajaj Avenger 220cc,43000.0,33807.0,Second Owner,Bajaj
+12865,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+25423,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+15220,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+21107,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+7534,Honda CB Shine,30000.0,47000.0,First Owner,Honda
+2715,Hero Passion Pro,33000.0,17500.0,First Owner,Hero
+279,Royal Enfield Thunderbird,85000.0,31000.0,First Owner,Royal Enfield
+2616,Royal Enfield Classic,120000.0,16400.0,First Owner,Royal Enfield
+32112,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+9577,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+16141,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+6489,Royal Enfield Thunderbird,45918.0,51396.0,Second Owner,Royal Enfield
+22710,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+32214,Hero CBZ Xtreme,11900.0,34968.0,First Owner,Hero
+20591,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+9920,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+14040,Yamaha Fazer 150cc,25000.0,65000.0,First Owner,Yamaha
+13852,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+23244,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+11082,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+19021,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+30964,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+30981,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+12054,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+14603,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+22252,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+15692,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
+14737,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+5317,Hero Splendor iSmart,25000.0,50000.0,First Owner,Hero
+11070,Bajaj Pulsar NS200,48000.0,41939.0,First Owner,Bajaj
+30086,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+11438,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+23459,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+278,Bajaj V15 150cc,44000.0,15000.0,First Owner,Bajaj
+10010,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+19388,Yamaha YZF-R15 2.0,55000.0,27000.0,First Owner,Yamaha
+13300,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+17880,Hero Passion Pro,39000.0,22000.0,First Owner,Hero
+736,Bajaj Discover 150cc,31500.0,26000.0,First Owner,Bajaj
+13702,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+29017,Bajaj Dominar 400,139000.0,21300.0,First Owner,Bajaj
+15598,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+17265,KTM RC 390cc,196700.0,13216.0,First Owner,KTM
+21774,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+28685,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+17121,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+11958,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+13196,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+14861,Harley-Davidson Street 750,450000.0,3430.0,First Owner,Harley-Davidson
+1923,Honda CB Unicorn,42000.0,22000.0,First Owner,Honda
+15249,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+28896,Honda CB Hornet,87000.0,140.0,First Owner,Honda
+20299,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+936,Hero Passion Pro,35000.0,22000.0,First Owner,Hero
+28256,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+1197,Yamaha Fazer 25,85000.0,15000.0,Second Owner,Yamaha
+5436,Yamaha YZF-R15 2.0,100000.0,5000.0,First Owner,Yamaha
+22772,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+16175,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+9315,Hero CD Deluxe,20000.0,5000.0,First Owner,Hero
+10475,Bajaj Platina 100cc,23000.0,20000.0,First Owner,Bajaj
+9350,Bajaj Pulsar NS200,46000.0,27687.0,Third Owner,Bajaj
+9240,Yamaha YZF-R15 2.0,96000.0,23000.0,First Owner,Yamaha
+3298,Hero Splendor Plus,56000.0,1745.0,First Owner,Hero
+21055,Bajaj Avenger Street,60000.0,20373.0,First Owner,Bajaj
+25964,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+7558,KTM Duke 250cc,170000.0,3500.0,First Owner,KTM
+21191,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+30398,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+30433,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+14214,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+10533,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+27550,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+24220,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+22878,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+29879,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+15348,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+790,Bajaj Pulsar 150cc,45000.0,22000.0,First Owner,Bajaj
+4405,Hero CD Deluxe,30500.0,22598.0,First Owner,Hero
+27416,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+26021,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+24409,Bajaj Avenger 220cc,50000.0,29134.0,First Owner,Bajaj
+22351,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+19076,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+12802,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+32212,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+6373,Hero Splendor Plus,42000.0,9817.0,First Owner,Hero
+12295,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+9248,Bajaj Pulsar 150cc,29500.0,115152.0,First Owner,Bajaj
+13701,Bajaj Avenger 220cc,35000.0,60000.0,First Owner,Bajaj
+9165,Royal Enfield Thunderbird,103000.0,14400.0,First Owner,Royal Enfield
+22206,Bajaj Pulsar 150cc,25000.0,32588.0,First Owner,Bajaj
+26839,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+11615,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+19473,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+17394,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+31758,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+14223,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+12837,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+28833,Royal Enfield Classic,87000.0,16336.0,First Owner,Royal Enfield
+19057,Hero CD Deluxe,18000.0,22824.0,First Owner,Hero
+11677,Hero Passion 100cc,18000.0,3869.0,First Owner,Hero
+250,Bajaj Avenger 220cc,45600.0,18000.0,Second Owner,Bajaj
+26020,Bajaj Avenger Street,55005.0,6600.0,First Owner,Bajaj
+18973,Royal Enfield Thunderbird,70000.0,13858.0,Second Owner,Royal Enfield
+27640,Hero Hunk Rear,25000.0,48587.0,First Owner,Hero
+17834,Suzuki Zeus 125cc,35000.0,11885.0,First Owner,Suzuki
+21306,Suzuki Slingshot Plus,32000.0,22697.0,First Owner,Suzuki
+16721,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+900,Hero Passion 100cc,21100.0,30000.0,First Owner,Hero
+16974,Honda CB Trigger,43000.0,42837.0,First Owner,Honda
+28320,Royal Enfield Bullet,105000.0,20000.0,First Owner,Royal Enfield
+29144,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+31273,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+20430,Bajaj Avenger Street,80000.0,7127.0,First Owner,Bajaj
+5777,Bajaj Avenger Street,47000.0,38561.0,First Owner,Bajaj
+27822,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+9194,Hero Ambition 135cc,5000.0,82178.0,First Owner,Hero
+330,Hero Karizma ZMR,55000.0,32000.0,First Owner,Hero
+7901,Bajaj Pulsar 150cc,70000.0,10000.0,First Owner,Bajaj
+31688,Yamaha Fazer 25,123000.0,14500.0,First Owner,Yamaha
+8978,Bajaj Discover 100cc,17000.0,14821.0,First Owner,Bajaj
+16090,Royal Enfield Classic,95500.0,18000.0,First Owner,Royal Enfield
+17102,TVS Apache RTR,30000.0,6639.0,First Owner,TVS
+7091,Bajaj Discover 125M,35000.0,12000.0,First Owner,Bajaj
+27784,Yamaha FZ 150cc,45000.0,18742.0,First Owner,Yamaha
+31120,Bajaj Pulsar 150cc,10000.0,64955.0,First Owner,Bajaj
+16778,Bajaj Pulsar 150cc,14227.0,36000.0,First Owner,Bajaj
+13505,Bajaj Avenger Street,70000.0,8000.0,First Owner,Bajaj
+26219,Bajaj Avenger 220cc,41000.0,20245.0,Second Owner,Bajaj
+3053,Royal Enfield Thunderbird,110000.0,14201.0,First Owner,Royal Enfield
+16497,Bajaj Pulsar 150cc,22000.0,60857.0,First Owner,Bajaj
+19587,Hero Passion Pro,32000.0,12000.0,First Owner,Hero
