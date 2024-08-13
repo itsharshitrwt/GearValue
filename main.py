@@ -4,11 +4,11 @@ import pickle
 import numpy as np
 app = Flask(__name__)
 
-model = pickle.load(open("vehicleRegressionModel.pkl","rb"))
-car = pd.read_csv("Cleaned Car.csv")\
+model = pickle.load(open("models/vehicleRegressionModel.pkl","rb"))
+car = pd.read_csv("data/Cleaned Car.csv")
 
-model1 = pickle.load(open("bikeRegressionModel.pkl","rb"))
-bike = pd.read_csv("new_bikes_data1.csv")
+model1 = pickle.load(open("models/bikeRegressionModel.pkl","rb"))
+bike = pd.read_csv("data/new_bikes_data1.csv")
 
 
 @app.route("/")
