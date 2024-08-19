@@ -2,7 +2,7 @@
 
 A web application that uses linear regression to predict prices of used cars and bikes based on odometer reading and purchase year.
 
-# # Features
+# Features
 
 Predicts prices of used cars and bikes based on:
 Odometer reading (kilometers driven)
