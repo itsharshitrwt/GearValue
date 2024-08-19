@@ -4,11 +4,11 @@ A web application that uses linear regression to predict prices of used cars and
 
 # Features
 
-Predicts prices of used cars and bikes based on:
-Odometer reading (kilometers driven)
-Purchase year
-Deployed as a web application using Flask
-Uses popular Python libraries: NumPy, pandas
+* Predicts prices of used cars and bikes based on:
+* Odometer reading (kilometers driven)
+* Purchase year
+* Deployed as a web application using Flask
+* Uses popular Python libraries: NumPy, pandas
 
 
 # Requirements
