@@ -20,7 +20,7 @@ pandas
 scikit-learn
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/used-vehicle-price-predictor.git
+Clone the repository: git clone <URL> 
 Install dependencies: pip install -r requirements.txt
 Run the application: python app.py
 
