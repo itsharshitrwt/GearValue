@@ -13,7 +13,7 @@ A web application that uses linear regression to predict prices of used cars and
 
 # Requirements
 
-Python 3.x,   
+Python 3.x,  
 Flask, 
 NumPy,  
 pandas, 
@@ -22,7 +22,7 @@ scikit-learn,
 # Installation
 * Clone the repository: git clone <URL> 
 * Install dependencies: pip install -r requirements.txt
-* Run the application: python app.py
+* Run the application: python main.py
 
 # Usage
 Open a web browser and navigate to localhost, 
