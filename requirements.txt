@@ -24,7 +24,6 @@ markupsafe==3.0.2
     #   werkzeug
 numpy==2.0.1
     # via
-    #   -r requirements.in
     #   pandas
     #   scikit-learn
     #   scipy
