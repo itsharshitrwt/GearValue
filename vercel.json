@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "runtime": "python",
+    
     "builds": [
       {
         "src": "*.html",
